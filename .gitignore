@@ -1,0 +1,8 @@
+build/
+*.exe
+*.o
+*.obj
+.claude/
+studyforge_data.dat
+studyforge_config.ini
+imgui.ini
