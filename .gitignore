@@ -6,3 +6,5 @@ build/
 studyforge_data.dat
 studyforge_config.ini
 imgui.ini
+CLAUDE.md
+CMakeLists.txt
